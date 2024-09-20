@@ -29,7 +29,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Gzzzxx"><img src="https://img.shields.io/badge/GitHub-Gzzzxx-blue?logo=github" /></a>
-<a href="https://gitee.com/gzzz-art"><img src="https://img.shields.io/badge/Gitee-Gzzz-art-blue?logo=gitee" /></a>
+<a href="https://gitee.com/gzzz-art"><img src="https://img.shields.io/badge/Gitee-gzzz_art-blue?logo=gitee" /></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
