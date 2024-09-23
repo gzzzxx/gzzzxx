@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Gzzz%F0%9F%98%AC&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Gzzz%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -12,7 +12,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Gzzzxx&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzzzxx&theme=transparent&layout=compact&hide_border=true&langs_count=6" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8" />
+</picture>
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Gzzzxx&theme=github-compact&hide_border=true&area=true" />
