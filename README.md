@@ -36,6 +36,7 @@
 <a href="https://github.com/Gzzzxx"><img src="https://img.shields.io/badge/GitHub-Gzzzxx-blue?logo=github" /></a>
 <a href="https://gitee.com/gzzz-art"><img src="https://img.shields.io/badge/Gitee-gzzz_art-blue?logo=gitee" /></a>
 <a href="https://blog.gzzz.pro"><img src="https://img.shields.io/badge/Blog-blog.gzzz.pro-blue?logo=Blogger&logoColor=f5f5f5" /></a>
+<a href="https://github.com/Gzzzxx"><img src="https://komarev.com/ghpvc/?username=Gzzzxx&abbreviated=true"></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
